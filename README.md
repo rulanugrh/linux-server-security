@@ -10,6 +10,6 @@ Here I will explain several ways of hardening on a linux server, maybe I will di
 
 LICENSE
 =======
-Distributed under the MIT License. See [`LICENSE`](https://github.com/ItsArul/Security/blob/main/LICENSE) for more information
+Distributed under the MIT License. See [`LICENSE`](https://github.com/ItsArul/linux-server-security/blob/master/LICENSE) for more information
 
 > Note : SSH, VSFTPD, PROFTPD Coming Soon
