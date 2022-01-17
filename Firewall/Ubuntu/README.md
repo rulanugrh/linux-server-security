@@ -65,6 +65,6 @@ Okay, maybe how to use it like this, the rest you explore where I have explained
 
 LICENSE
 =======
-Distributed under the MIT License. See [`LICENSE`](https://github.com/ItsArul/Security/blob/main/LICENSE) for more information
+Distributed under the MIT License. See [`LICENSE`](https://github.com/ItsArul/linux-server-security/blob/master/LICENSE) for more information
 
 > Note : For more advanced commands, they will be discussed in the advanced section, here I only explain the basic commands and understanding before going to advance
