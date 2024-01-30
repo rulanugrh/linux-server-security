@@ -6,10 +6,7 @@
 
 What does this repository contain?
 ==================================
-Here I will explain several ways of hardening on a linux server, maybe I will discuss the repo step by step this time I will discuss the basics of `Firewall` and `Apache`
+Direpo ini akan dijelaskan cara hardening sebuah aplikasi didalam server dan server ditunggu yaa akan ada beberapa yang akan diunggah
 
-LICENSE
-=======
-Distributed under the MIT License. See [`LICENSE`](https://github.com/ItsArul/linux-server-security/blob/master/LICENSE) for more information
 
 > Note : SSH, VSFTPD, PROFTPD Coming Soon
