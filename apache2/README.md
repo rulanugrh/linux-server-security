@@ -1,5 +1,8 @@
-<h1 align='center'>Apache2 Hardening</h1>
+<div align='center'>
+    <img src="../asset/apache2.png" />
+</div>
 
+## Getting Started
 
 Oke kali ini saya akan membahas tentang keamanan dasar `Apache`, dan untuk tingkat lanjutannya akan saya pisahkan sendiri. Sebelum itu mari kita kenali dulu, apa itu Apache?. Oke sebenarnya apache itu luas, sekarang yang kita bahas adalah apache httpd. `Apache HTTPD` merupakan jenis `Web Server` yang berfungsi sebagai media untuk menampilkan source code yang telah kita buat. `Apache HTTPD` perlu diamankan jika tidak dilakukan maka dapat dipentest melalui banyak cara. Mengamankan apache2 adalah salah satu bentuk patching terhadap aplikasi yang berjalan di server. Maka dari itu, mari kita bahas hardening di `Apache HTTPD` 
 

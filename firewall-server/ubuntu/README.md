@@ -1,12 +1,10 @@
-<h1 align='center'>Firewall in Ubuntu</h1>
 <div align='center'>
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp2761621.gif&f=1&nofb=1" />
+    <img src="../../asset/ubuntu.png" />
 </div>
 
+## Getting Started
 Oke firewall adalah metode yang digunakan untuk mengamankan sistem server kita. Mengapa ini penting?, karena seperti ini misalkan kita mempunyai server yang bagus, dari sudut pandang FrontEnd yang bagus, setupnya bagus tapi keamanannya buruk, percuma karena mungkin ada yang ingin menyerang server kita. Oke maka dari itu saya ingin menjelaskan tentang firewall di ubuntu. Salah satu firewall yang ada di ubuntu adalah iptables, dimana iptables berperan penting dalam mengatur keamanan sistem, sederhananya iptables ini bekerja dengan memasukkan `rule`, lalu bagaimana cara menggunakannya? apa aturannya? Oke, simak berikut ini.
 
-Getting Started
-=================
 Sebelum itu mari kita bahas rule dimana rule ini memegang peranan penting dalam membangun firewall. Secara sederhana aturan di iptables ini sama dengan `persyaratan` untuk masuk/akses dari komputer client ke server kita. Oke, mari kita kenali tentang perintah dasar iptables.
 ```
 iptables -nvL => Command ini digunakan untuk melihat rule yang sudah kita buat

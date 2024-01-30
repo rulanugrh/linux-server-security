@@ -1,12 +1,11 @@
-<h1 align='center'>Firewall in CentOS</h1>
 <div align='center'>
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp2761621.gif&f=1&nofb=1" />
+    <img src="../../asset/centos.png" />
 </div>
 
+## Getting Started
 Oke, kalau begitu firewall di CentOS. Apakah sama dengan yang ada di ubuntu? Atau lebih sulit? Tentu saja berbeda dengan `iptables` dimana firewall pada CentOS jauh lebih kompleks dan cara menggunakannya berdasarkan `zone` yang telah dibuat/ditentukan. Lalu apa yang harus dipakai? yup, itu adalah firewall-cmd di mana firewall perangkat lunak pada CentOS digunakan untuk mengamankan sistem. Ok tunggu sebentar, apakah kita bis menggunakan iptables? Kita bisa saja menginstal `iptables-persistent` hanya saja ini kurang efektif di CentOS. Namun, ada sesuatu yang unik di CentOS dimana ketika kita tidak memasukkan aturan di firewall, layanan yang kita buat tidak akan berjalan/otomatis ditutup
 
-Getting Started
-===================
+
 Oke, untuk sesi ini, setidaknya tidak banyak. Saya hanya akan membahas zona dan beberapa perintah. Oke simak berikut ini, pertama kita akan membahas apa saja zona yang ada di CentOS
 ```
 DROP     => Ini adalah zona yang sangat tidak mempercayai koneksi apapun, biasanya yang ingin terhubung dengan ini akan ditolak

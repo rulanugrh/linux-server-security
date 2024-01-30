@@ -1,4 +1,6 @@
-<h1 align="center"> Hardening Nginx </h1>
+<div align="center">
+    <img src="../asset/nginx.png">
+</div>
 
 ## Getting Started
 Nginx ialah hal yang serupa dengan apache2. Nginx web server yang memiliki peforma jauh lebih kencang ketimbang apache2 dalam hal response. Nginx belakangan ini kerap kali ramai diperbincangkan. Bahkan selain menjadi web server, digunakan juga untuk load balancer, proxy pass, dsb. Lalu bagaimana kita mengamankan aplikasi sebagus ini ? Sebenarnya sama saja kaya apache2 namun ada sedikit perbedaan dalam hal installasi
