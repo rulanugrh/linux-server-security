@@ -1,6 +1,5 @@
-<h1 align='center'>Linux Server Security</h1>
 <div align='center'>
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp2757834.gif&f=1&nofb=1" />
+    <img src="./asset/banner.png" />
 </div>
 
 
