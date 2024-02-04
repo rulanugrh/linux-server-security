@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 source ./util/centos.sh
 source ./util/debian.sh
