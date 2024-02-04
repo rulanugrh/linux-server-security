@@ -1,5 +1,5 @@
 <div align='center'>
-    <img src="../asset/apache2.png" />
+    <img src="../.github/asset/apache2.png" />
 </div>
 
 ## Getting Started

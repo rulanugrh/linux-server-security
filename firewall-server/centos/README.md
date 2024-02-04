@@ -1,5 +1,5 @@
 <div align='center'>
-    <img src="../../asset/centos.png" />
+    <img src="../../.github/asset/centos.png" />
 </div>
 
 ## Getting Started

@@ -1,5 +1,5 @@
 <div align='center'>
-    <img src="../../asset/ubuntu.png" />
+    <img src="../../.github/asset/ubuntu.png" />
 </div>
 
 ## Getting Started

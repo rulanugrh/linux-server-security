@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="../asset/nginx.png">
+    <img src="../.github/asset/nginx.png">
 </div>
 
 ## Getting Started
